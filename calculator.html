@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+<body>
+    <script src="calc.js"></script>
+    <div class="container" >
+    <img src="thumbnails/i31.jpg" class="i1">
+    <div class="bod">
+        <p>Welcome to Calculator.com!</p>
+        <div class="calculator">
+        <input type="text" class="s" id="s" disabled>
+            <div class="calculator-buttons">
+                <button class="b" onclick="clearScreen()">C</button>
+                <button class="b" onclick="backspace()">←</button>
+                <button class="b" onclick="appendCharacter('%')">%</button>
+                <button class="b o" onclick="appendCharacter('/')">/</button>
+                <button class="b" onclick="appendCharacter('7')">7</button>
+                <button class="b" onclick="appendCharacter('8')">8</button>
+                <button class="b" onclick="appendCharacter('9')">9</button>
+                <button class="b o" onclick="appendCharacter('*')">*</button>
+                <button class="b" onclick="appendCharacter('4')">4</button>
+                <button class="b" onclick="appendCharacter('5')">5</button>
+                <button class="b" onclick="appendCharacter('6')">6</button>
+                <button class="b o" onclick="appendCharacter('-')">-</button>
+                <button class="b" onclick="appendCharacter('1')">1</button>
+                <button class="b" onclick="appendCharacter('2')">2</button>
+                <button class="b" onclick="appendCharacter('3')">3</button>
+                <button class="b o" onclick="appendCharacter('+')">+</button>
+                <button class="b zero" onclick="appendCharacter('0')">0</button>
+                <button class="b" onclick="appendCharacter('.')">.</button>
+                <button class="b o" onclick="calculateResult()">=</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
