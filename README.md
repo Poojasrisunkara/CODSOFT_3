@@ -4,6 +4,10 @@
 
 This is a simple web-based calculator created as part of my web development internship at CodSoft. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+
+https://github.com/Poojasrisunkara/CODSOFT_3/assets/165466759/739eff6a-28ff-42a7-97e8-4965aa8d66f0
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -42,7 +46,7 @@ To run this project locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```sh
-    cd CODSOFT-3
+    cd CODSOFT_3
     ```
 
 3. **Open the `index.html` file in your preferred web browser:**
