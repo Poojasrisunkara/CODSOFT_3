@@ -49,10 +49,10 @@ To run this project locally, follow these steps:
     cd CODSOFT_3
     ```
 
-3. **Open the `index.html` file in your preferred web browser:**
+3. **Open the `calculator.html` file in your preferred web browser:**
 
     ```sh
-    open index.html
+    open calculator.html
     ```
 
 ## Usage
@@ -63,9 +63,9 @@ To run this project locally, follow these steps:
 
 ## Project Structure
  
-- `index.html`: The main HTML file that contains the structure of the calculator.
-- `style.css`: The CSS file for styling the calculator.
-- `script.js`: The JavaScript file that contains the logic for the calculator operations.
+- `calculator.html`: The main HTML file that contains the structure of the calculator.
+- `calculator.css`: The CSS file for styling the calculator.
+- `calc.js`: The JavaScript file that contains the logic for the calculator operations.
 - `README.md`: This file.
 
 ## Contributing
