@@ -5,7 +5,8 @@
 This is a simple web-based calculator created as part of my web development internship at CodSoft. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 
-https://github.com/Poojasrisunkara/CODSOFT_3/assets/165466759/739eff6a-28ff-42a7-97e8-4965aa8d66f0
+https://github.com/Poojasrisunkara/CODSOFT_3/assets/165466759/04ad177f-980e-4ed8-9101-db938d71d82a
+
 
 
 ## Table of Contents
